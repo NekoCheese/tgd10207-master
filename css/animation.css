@@ -1,48 +1,49 @@
 /* ----------------------共通---------------------- */
+
 /* 導覽列 */
-.top-nav a:hover{
-    padding-bottom: 5px;
-    border-bottom: 4px solid #FF7300;
+.top-nav a:hover {
+  padding-bottom: 5px;
+  border-bottom: 4px solid #ff7300;
 }
 
 /* 頁腳 */
-.social ul li a:hover{
-    color: #FF7300;
+.social ul li a:hover {
+  color: #ff7300;
 }
 
 /* ----------------------獨立---------------------- */
+
 /* 首頁 */
-main ul li{
-    transition: all .2s 0s ease;
+main ul li {
+  transition: all 0.2s 0s ease;
 }
 
-main ul li:hover{
-    transform: scale(1.1);
-    background-color: rgb(48, 48, 48);
-    
+main ul li:hover {
+  transform: scale(1.1);
+  background-color: rgb(48 48 48);
 }
 
 /* 關於頁 */
-.banner4 ul li{
-    transition: all .6s 0s ease;
+.banner4 ul li {
+  transition: all 0.6s 0s ease;
 }
 
-.banner4 ul li:hover{
-    transform: scale(1.1);
+.banner4 ul li:hover {
+  transform: scale(1.1);
 }
 
-.banner6 > input:hover{
-    border: 2px solid white;
+.banner6 > input:hover {
+  border: 2px solid white;
 }
 
 /* 資訊頁 */
 .intel ul li:hover{
-    
+
 }
 
-.wmcomms ul li:hover p{
-    display: block;
-    background-color: rgba(255,255,255,.3);
+.wmcomms ul li:hover p {
+  display: block;
+  background-color: rgb(255 255 255 / 30%);
 }
 
 /* 媒體頁 */
