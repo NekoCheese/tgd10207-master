@@ -89,7 +89,7 @@ main li:last-child {
 /* 訂閱欄 */
 
 aside {
-    background-image: url("../img/contact_bg.jpg");
+    background-image: url("../img/home_img/contact_bg.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
