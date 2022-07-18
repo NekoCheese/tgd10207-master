@@ -11,7 +11,7 @@ body{
 }
 /* 隱藏滾動條................ */
 body::-webkit-scrollbar {
-    display: none;
+    /* display: none; */
 }
 
 /* 搜尋欄 */
